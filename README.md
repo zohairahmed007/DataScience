@@ -72,7 +72,7 @@ To start using the materials in this repository:
 ## 💼 Connect with Me
 
 - **YouTube**: [Your YouTube Channel](https://www.youtube.com/@ZohairAhmed007?sub_confirmation=1)
-- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/zohairahmed007)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/zohairahmed007)
 
 
 ## 💡 How to Contribute
