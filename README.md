@@ -34,7 +34,7 @@ To start using the materials in this repository:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/data-science-course.git
+    git clone https://github.com/zohairahmed007/DataScience.git
     ```
 
 2. **Install the required libraries**:
@@ -68,6 +68,13 @@ To start using the materials in this repository:
 - [Official Pandas Documentation](https://pandas.pydata.org/)
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 
+
+## 💼 Connect with Me
+
+- **YouTube**: [Your YouTube Channel](https://www.youtube.com/@ZohairAhmed007?sub_confirmation=1)
+- **LinkedIn**: [Your LinkedIn Profile](www.linkedin.com/in/zohairahmed007)
+
+
 ## 💡 How to Contribute
 
 1. Fork the repository.
@@ -78,11 +85,10 @@ To start using the materials in this repository:
 
 ## 🗨️ Questions or Feedback?
 
-If you have any questions, feel free to open an issue or reach out to me directly via [email](mailto:your-email@example.com).
+If you have any questions, feel free to open an issue or reach out to me directly.
 
 ---
 
 Happy Learning! 😊
 
-**Instructor**: [Your Name]  
-**Contact**: [your-email@example.com]  
+**Instructor**: Zohair Ahmed
