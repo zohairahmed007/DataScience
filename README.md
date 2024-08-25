@@ -21,12 +21,13 @@ This course covers a comprehensive introduction to data science, including key t
 ## 🗂 Repository Structure
 
 The repository is organized into the following sections:
+- The following structure mantain later, meanwhile stay update by Google Drive Link
+- **`Google Drive/`**:[Click to View Drive](https://drive.google.com/drive/folders/1PnMSSGSu9VqQ-YOY55to5vhj5S54NBin?usp=sharing)
 
-
-- **`lectures/`**: Contains PDF slides and notes from each lecture.
-- **`code/`**: Python scripts and Jupyter notebooks with examples from the course.
-- **`practice/`**: Datasets and Jupyter notebooks for hands-on practice.
-- **`exercises/`**: Homework and exercise assignments to reinforce concepts.
+- **`Lectures/`**: Contains PDF slides and notes from each lecture.
+- **`Code/`**: Python scripts and Jupyter notebooks with examples from the course.
+- **`Practice/`**: Datasets and Jupyter notebooks for hands-on practice.
+- **`Exercises/`**: Homework and exercise assignments to reinforce concepts.
 
 ## ✨ Getting Started
 
@@ -52,7 +53,7 @@ To start using the materials in this repository:
 
 - Each folder contains practice notebooks and exercises. You are encouraged to complete these exercises after each lecture to reinforce the learning.
 - The exercises are structured to help you implement the concepts covered in class.
-- You can find detailed instructions and datasets in the **`practice/`** and **`exercises/`** folders.
+- You can find detailed instructions and datasets in the **`Practice/`** and **`Exercises/`** folders.
 
 ## 🛠️ Tools and Libraries Used
 
